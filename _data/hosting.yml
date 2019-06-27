@@ -56,7 +56,14 @@ websites:
       email: Yes
       doc: https://my.bluehost.com/cgi/help/two-factor-authentication
 
-    - name: CDNsun
+  - name: CDN77
+      url: https://www.cdn77.com/
+      img: cdn77.png
+      tfa: Yes
+      software: Yes
+      doc: https://client.cdn77.com/support/knowledgebase/billing/cdn77-two-step-authentication
+  
+  - name: CDNsun
       url: https://cdnsun.com
       img: cdnsun.png
       tfa: Yes
